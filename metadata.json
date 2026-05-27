@@ -1,0 +1,6 @@
+{
+  "name": "Academia de Liderazgo",
+  "description": "Una plataforma educativa, moderna e interactiva basada en el libro 'Las 21 cualidades indispensables de un líder' de John C. Maxwell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
